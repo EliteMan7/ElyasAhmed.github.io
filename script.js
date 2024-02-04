@@ -3,7 +3,7 @@ function toggleMenu() {
   const icon = document.querySelector(".burger-icon");
   menu.classList.toggle("open");
   icon.classList.toggle("open");
-} 
+}  
 
 document.getElementById('myGif').addEventListener('mouseenter', function() {
   var image = document.getElementById('myGif');
